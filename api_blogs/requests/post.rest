@@ -1,0 +1,11 @@
+POST http://localhost:3003/invoices
+
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFuZGl6MiIsImlkIjoiNjQ4YWM1ZDAwMTZhNTI0MGEyOTlkY2Y2IiwiaWF0IjoxNjk4NTcyMjYwLCJleHAiOjE2OTg1NzU4NjB9.5JGCRDckjWD3TXEJEyz4Pqw4fhktIXwwDSJJss04j-E
+
+{
+  "id": 12,
+  "details": "Me and m",
+  "due_date": "12-43-2312",
+  "amount": 521
+}

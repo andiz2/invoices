@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/invoices/6481cdd1a5f07b8577f60f8c
+
+Content-Type: application/json
+
+{
+  "id": 12,
+  "details": "Me and m",
+  "due_date": "12-43-2312",
+  "amount": 521
+}
