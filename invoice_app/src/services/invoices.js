@@ -1,6 +1,6 @@
 /* eslint-disable */
 import axios from 'axios'
-const baseUrl = 'http://localhost:3003/invoices'
+const baseUrl = 'http://localhost:3000/invoices'
 
 let token = null
 
